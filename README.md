@@ -1,2 +1,1 @@
-# SImple-Language-Translator-using-Python
-A simple language translator using an API and tkinter for the gui
+This repository contains a simple Language Translator App built in Python using tkinter for the graphical user interface and googletrans for language translation. The application allows users to select both source and destination languages from dropdown menus, enter text, and receive the translated output immediately. Designed with a clear and intuitive layout, it emphasizes ease of use while handling common errors like invalid language inputs or empty text fields. Perfect for quick translations, this project supports over 100 languages and serves as an excellent example of integrating APIs with desktop applications.
